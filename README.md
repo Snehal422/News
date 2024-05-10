@@ -1,2 +1,2 @@
-# NewsApp
- NewsApp
+# appnews
+ appnews
